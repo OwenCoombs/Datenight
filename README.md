@@ -11,7 +11,7 @@ Everything is local — no accounts, no backend, no analytics. Works fully offli
 
 ## Stack
 
-- Expo SDK 57 · React Native 0.86 · TypeScript (strict) · Expo Router
+- Expo SDK 54 · React Native 0.81 · TypeScript (strict) · Expo Router
 - `expo-sqlite` for persistence (versioned migrations)
 - `expo-image-picker` for photo capture, `expo-file-system` for permanent photo storage
 - `react-native-view-shot` + `expo-sharing` for the share card
